@@ -5,3 +5,11 @@ span.negrita{
 span.pequenia{
     font-size: small;
 }
+
+ul{
+    list-style-type: square;
+}
+
+ul{
+    list-style-image: url("imgA/clash royale.png");
+}
